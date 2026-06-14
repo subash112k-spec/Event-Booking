@@ -1,0 +1,32 @@
+export const events = [
+  {
+    id: 1,
+    image: "/assets/group.jpg",
+    title: "Tech Conference 2026",
+    description:"Join this amazing event and connect with professionals.",
+    location: "Chennai",
+    date: "15 July 2026",
+    price: 999,
+    availableSeats: 150,
+  },
+  {
+    id: 2,
+    image: "/assets/music.jpg",
+    title: "Music Festival",
+    description:"Join this amazing event and connect with professionals.",
+    location: "Bangalore",
+    date: "20 August 2026",
+    price: 1499,
+    availableSeats: 300,
+  },
+  {
+    id: 3,
+    image: "/assets/startup.jpg",
+    title: "Startup Meetup",
+    description:"Join this amazing event and connect with professionals.",
+    location: "Hosur",
+    date: "05 September 2026",
+    price: 499,
+    availableSeats: 100,
+  },
+];
